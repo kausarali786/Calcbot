@@ -1,0 +1,170 @@
+﻿Material_Name,Cost Price,Currency,Description,Type,Insulation Type,Thickness,Finish,Size,Weight,Unit ,Coverage per liter (sq.m),Coverage per sq.m,Tiles/sheet,Coverage per sq.m (9-inch wall),Bricks/Block,Coverage per sq.m (4.5-inch wall),Bricks/Block,Wastage Percentage,Labor Cost per sq.m,Currency,Transportation Cost (per 1000 bricks),Region
+Red Clay Brick,1.2,Dhs,Traditional red clay brick used for walls and foundations.,_,_,_,_,190mm x 90mm x 90mm,2.5,KG,_,_,_,100,bricks,50,bricks,5%,12.5,Dhs,50,Urban
+Fly Ash Brick,1.8,Dhs,Eco-friendly fly ash brick for lightweight construction.,_,_,_,_,230mm x 110mm x 70mm,2,KG,_,_,_,95,bricks,48,bricks,4%,10,Dhs,45,Urban
+Concrete Block,3.5,Dhs,Solid concrete block for structural walls.,_,_,_,_,400mm x 200mm x 200mm,10,KG,_,_,_,12.5,blocks,6,blocks,6%,20,Dhs,120,Rural
+Hollow Clay Brick,2,Dhs,Hollow clay brick for thermal insulation.,_,_,_,_,230mm x 100mm x 70mm,1.8,KG,_,_,_,90,bricks,45,bricks,3%,11,Dhs,55,Suburban
+AAC Block,5,Dhs,Autoclaved aerated concrete block for high insulation.,_,_,_,_,600mm x 200mm x 200mm,8,KG,_,_,_,8,blocks,4,blocks,3%,25,Dhs,150,Urban
+Fire Brick,4.2,Dhs,Fire-resistant brick for high-temperature environments.,_,_,_,_,230mm x 114mm x 65mm,3.5,KG,_,_,_,92,bricks,46,bricks,4%,30,Dhs,180,Industrial
+Engineering Brick,3,Dhs,High strength and low water absorption engineering brick.,_,_,_,_,215mm x 102mm x 65mm,3.3,KG,_,_,_,96,bricks,48,bricks,2%,20,Dhs,110,Urban
+Calcium Silicate Brick,2.5,Dhs,Calcium silicate brick for superior strength and sound insulation.,_,_,_,_,220mm x 105mm x 65mm,2.7,KG,_,_,_,95,bricks,47,bricks,3%,22,Dhs,130,Urban
+Sand Lime Brick,1.6,Dhs,Sand-lime brick for smooth finish and durability.,_,_,_,_,228mm x 108mm x 70mm,2.4,KG,_,_,_,98,bricks,49,bricks,5%,12,Dhs,60,Rural
+Refractory Brick,6,Dhs,Brick used for lining furnaces and kilns.,_,_,_,_,230mm x 114mm x 75mm,4,KG,_,_,_,88,bricks,44,bricks,4%,35,Dhs,200,Industrial
+Wire Cut Brick,2.2,Dhs,Brick with a smooth surface for exposed brickwork.,_,_,_,_,220mm x 105mm x 65mm,2.6,KG,_,_,_,96,bricks,48,bricks,3%,18,Dhs,70,Suburban
+Glazed Brick,4.5,Dhs,Glazed finish brick for decorative and exterior use.,_,_,_,_,215mm x 102mm x 65mm,3,KG,_,_,_,94,bricks,47,bricks,5%,28,Dhs,150,Urban
+Perforated Brick,1.5,Dhs,Perforated brick for better air flow and reduced weight.,_,_,_,_,190mm x 90mm x 90mm,1.8,KG,_,_,_,100,bricks,50,bricks,4%,15,Dhs,50,Rural
+Insulating Fire Brick,8,Dhs,Lightweight insulating brick for thermal efficiency.,_,_,_,_,230mm x 114mm x 76mm,3,KG,_,_,_,85,bricks,42,bricks,3%,40,Dhs,250,Industrial
+Lightweight Concrete Block,3.8,Dhs,Lightweight concrete block for non-load-bearing walls.,_,_,_,_,390mm x 190mm x 190mm,7.5,KG,_,_,_,13,blocks,6.5,blocks,6%,18,Dhs,110,Suburban
+Interlocking Brick,4,Dhs,Interlocking brick for mortar-less construction.,_,_,_,_,250mm x 125mm x 100mm,3,KG,_,_,_,70,bricks,35,bricks,5%,25,Dhs,140,Urban
+Porotherm Clay Brick,3,Dhs,Clay brick with perforations for better insulation.,_,_,_,_,400mm x 200mm x 200mm,6,KG,_,_,_,11.5,blocks,5.75,blocks,5%,22,Dhs,130,Rural
+Hand-molded Brick,1.4,Dhs,Handmade brick for a rustic and unique look.,_,_,_,_,210mm x 100mm x 65mm,2.2,KG,_,_,_,98,bricks,49,bricks,7%,13,Dhs,55,Suburban
+Extruded Brick,2,Dhs,Machine-made brick for consistent size and shape.,_,_,_,_,215mm x 102mm x 65mm,2.5,KG,_,_,_,97,bricks,48,bricks,3%,15,Dhs,60,Urban
+Acid Resistant Brick,7,Dhs,Brick designed for chemical-resistant applications.,_,_,_,_,230mm x 114mm x 65mm,3.7,KG,_,_,_,90,bricks,45,bricks,2%,40,Dhs,240,Industrial
+Bullnose Brick,2.5,Dhs,Brick with rounded edges for aesthetic corners.,_,_,_,_,215mm x 102mm x 65mm,2.7,KG,_,_,_,95,bricks,47,bricks,4%,16,Dhs,80,Suburban
+Wire Cut Clay Brick,2.3,Dhs,Precision-cut clay brick for exposed walls.,_,_,_,_,230mm x 110mm x 70mm,2.8,KG,_,_,_,93,bricks,46,bricks,3%,18,Dhs,75,Urban
+Hydraform Block,4.5,Dhs,Interlocking block for eco-friendly construction.,_,_,_,_,220mm x 110mm x 100mm,3.2,KG,_,_,_,68,blocks,34,blocks,5%,28,Dhs,150,Rural
+Blue Bricks,3.8,Dhs,Glazed brick with a blue finish for decorative use.,_,_,_,_,215mm x 102mm x 65mm,3.1,KG,_,_,_,92,bricks,46,bricks,4%,30,Dhs,130,Suburban
+Burnt Clay Brick,1.6,Dhs,Traditional burnt clay brick for general construction.,_,_,_,_,190mm x 90mm x 90mm,2.4,KG,_,_,_,100,bricks,50,bricks,5%,12,Dhs,50,Urban
+Double Brick,3.5,Dhs,Large brick for quick construction.,_,_,_,_,300mm x 150mm x 90mm,6,KG,_,_,_,55,bricks,28,bricks,6%,25,Dhs,120,Rural
+Glazed Wire Cut Brick,5,Dhs,High-quality glazed wire cut brick for aesthetics.,_,_,_,_,230mm x 110mm x 70mm,3,KG,_,_,_,90,bricks,45,bricks,5%,35,Dhs,150,Urban
+Thermal Block,6,Dhs,Insulated block for energy-efficient buildings.,_,_,_,_,400mm x 200mm x 250mm,9,KG,_,_,_,9,blocks,4.5,blocks,3%,40,Dhs,180,Industrial
+Rustic Red Brick,1.8,Dhs,Brick with a rough texture for a rustic look.,_,_,_,_,230mm x 110mm x 70mm,2.5,KG,_,_,_,95,bricks,47,bricks,5%,15,Dhs,65,Rural
+Ceramic Tile,15,Dhs,Standard ceramic tile for indoor use.,_,_,_,_,300mm x 300mm,2,KG,_,11,tiles,_,,_,,5%,25,Dhs,200,Urban
+Porcelain Tile,18,Dhs,High-quality porcelain tile for heavy traffic areas.,_,_,_,_,600mm x 600mm,3.5,KG,_,2.78,tiles,_,,_,,4%,30,Dhs,250,Urban
+Marble Tile,35,Dhs,Polished marble tile for luxury interiors.,_,_,_,_,600mm x 600mm,7,KG,_,2.78,tiles,_,,_,,10%,40,Dhs,400,Urban
+Granite Tile,32,Dhs,Durable granite tile for flooring and countertops.,_,_,_,_,600mm x 600mm,6.5,KG,_,2.78,tiles,_,,_,,8%,35,Dhs,350,Urban
+Terracotta Tile,20,Dhs,Rustic terracotta tile for outdoor and patio use.,_,_,_,_,300mm x 300mm,2.8,KG,_,11,tiles,_,,_,,7%,22,Dhs,180,Urban
+Vinyl Tile,12,Dhs,Affordable vinyl tile for easy installation.,_,_,_,_,450mm x 450mm,1.2,KG,_,5,tiles,_,,_,,3%,15,Dhs,100,Suburban
+Slate Tile,30,Dhs,Natural slate tile for modern interior designs.,_,_,_,_,400mm x 400mm,5,KG,_,6.25,tiles,_,,_,,6%,28,Dhs,300,Urban
+Limestone Tile,28,Dhs,Soft limestone tile for rustic indoor flooring.,_,_,_,_,400mm x 400mm,4.8,KG,_,6.25,tiles,_,,_,,7%,32,Dhs,290,Urban
+Mosaic Tile,40,Dhs,Decorative mosaic tile for backsplashes and accents.,_,_,_,_,100mm x 100mm,0.5,KG,_,100,tiles,_,,_,,8%,50,Dhs,150,Urban
+Quartz Tile,38,Dhs,Engineered quartz tile for modern designs.,_,_,_,_,600mm x 600mm,6,KG,_,2.78,tiles,_,,_,,4%,42,Dhs,320,Urban
+Glass Tile,45,Dhs,Transparent glass tile for stylish interiors.,_,_,_,_,200mm x 200mm,0.8,KG,_,25,tiles,_,,_,,6%,45,Dhs,180,Urban
+Concrete Tile,22,Dhs,Heavy-duty concrete tile for outdoor areas.,_,_,_,_,500mm x 500mm,6.5,KG,_,4,tiles,_,,_,,8%,27,Dhs,280,Suburban
+Travertine Tile,34,Dhs,Smooth travertine tile for luxury flooring.,_,_,_,_,600mm x 600mm,5.8,KG,_,2.78,tiles,_,,_,,10%,38,Dhs,360,Urban
+Cork Tile,14,Dhs,Eco-friendly cork tile for quiet flooring.,_,_,_,_,300mm x 300mm,0.7,KG,_,11,tiles,_,,_,,5%,20,Dhs,120,Suburban
+Bamboo Tile,16,Dhs,Sustainable bamboo tile for natural designs.,_,_,_,_,400mm x 400mm,1,KG,_,6.25,tiles,_,,_,,4%,18,Dhs,130,Suburban
+Metal Tile,50,Dhs,Metallic tile for industrial-style interiors.,_,_,_,_,300mm x 300mm,2.2,KG,_,11,tiles,_,,_,,9%,55,Dhs,500,Urban
+Rubber Tile,10,Dhs,Soft rubber tile for gym and playground floors.,_,_,_,_,500mm x 500mm,4,KG,_,4,tiles,_,,_,,2%,12,Dhs,100,Suburban
+Ceramic Mosaic Tile,25,Dhs,Small ceramic mosaic tiles for decorative use.,_,_,_,_,50mm x 50mm,0.2,KG,_,400,tiles,_,,_,,10%,28,Dhs,200,Urban
+Polished Porcelain Tile,20,Dhs,Glossy porcelain tile for clean and modern looks.,_,_,_,_,300mm x 300mm,2.5,KG,_,11,tiles,_,,_,,5%,22,Dhs,220,Urban
+Glazed Ceramic Tile,18,Dhs,Glazed ceramic tile for easy maintenance.,_,_,_,_,400mm x 400mm,3,KG,_,6.25,tiles,_,,_,,4%,20,Dhs,230,Urban
+Hexagonal Tile,24,Dhs,Unique hexagonal tile for creative designs.,_,_,_,_,250mm x 250mm,2,KG,_,16,tiles,_,,_,,5%,26,Dhs,190,Urban
+Polished Granite Tile,42,Dhs,Polished granite tile for luxury homes.,_,_,_,_,600mm x 600mm,6.5,KG,_,2.78,tiles,_,,_,,8%,46,Dhs,400,Urban
+Matte Porcelain Tile,17,Dhs,"Matte porcelain tile for a subtle, modern finish.",_,_,_,_,300mm x 300mm,2.3,KG,_,11,tiles,_,,_,,6%,20,Dhs,210,Suburban
+Saltillo Tile,18,Dhs,Mexican Saltillo tile for traditional homes.,_,_,_,_,300mm x 300mm,2.8,KG,_,11,tiles,_,,_,,7%,22,Dhs,190,Urban
+Quarry Tile,16,Dhs,Unglazed quarry tile for heavy-duty floors.,_,_,_,_,400mm x 400mm,4,KG,_,6.25,tiles,_,,_,,6%,19,Dhs,170,Suburban
+Encaustic Tile,40,Dhs,Decorative encaustic tile with intricate patterns.,_,_,_,_,200mm x 200mm,1.2,KG,_,25,tiles,_,,_,,8%,45,Dhs,300,Urban
+Wood-Look Porcelain Tile,28,Dhs,Porcelain tile mimicking wood planks.,_,_,_,_,150mm x 600mm,2.5,KG,_,11.1,tiles,_,,_,,5%,32,Dhs,350,Urban
+Terrazzo Tile,36,Dhs,Colorful terrazzo tile for stylish flooring.,_,_,_,_,400mm x 400mm,5,KG,_,6.25,tiles,_,,_,,7%,38,Dhs,280,Urban
+Unglazed Porcelain Tile,15,Dhs,Durable unglazed porcelain tile for industrial areas.,_,_,_,_,300mm x 300mm,2.4,KG,_,11,tiles,_,,_,,6%,18,Dhs,220,Suburban
+Glass Mosaic Tile,45,Dhs,Tiny glass mosaic tiles for artistic patterns.,_,_,_,_,50mm x 50mm,0.3,KG,_,400,tiles,_,,_,,9%,50,Dhs,250,Urban
+Terrazzo-Look Tile,33,Dhs,Porcelain tile mimicking terrazzo flooring.,_,_,_,_,400mm x 400mm,4.8,KG,_,6.25,tiles,_,,_,,6%,36,Dhs,300,Urban
+Limestone Mosaic Tile,32,Dhs,Natural limestone mosaic tile for walls.,_,_,_,_,100mm x 100mm,0.5,KG,_,100,tiles,_,,_,,10%,42,Dhs,220,Urban
+Leather-Look Tile,35,Dhs,Porcelain tile with a leather finish for unique designs.,_,_,_,_,400mm x 400mm,5,KG,_,6.25,tiles,_,,_,,8%,45,Dhs,350,Urban
+Concrete-Look Porcelain Tile,20,Dhs,Concrete-look tile for modern industrial interiors.,_,_,_,_,600mm x 600mm,6,KG,_,2.78,tiles,_,,_,,5%,22,Dhs,260,Urban
+Metallic Porcelain Tile,50,Dhs,Shiny metallic finish for ultra-modern designs.,_,_,_,_,400mm x 400mm,3.5,KG,_,6.25,tiles,_,,_,,9%,55,Dhs,400,Urban
+Pebble Tile,40,Dhs,Natural pebble tile for organic designs.,_,_,_,_,Irregular shapes,5,KG,_,10,sheets,_,,_,,7%,48,Dhs,300,Suburban
+Moroccan Tile,38,Dhs,Traditional Moroccan design for vibrant flooring.,_,_,_,_,200mm x 200mm,1.5,KG,_,25,tiles,_,,_,,8%,45,Dhs,300,Urban
+Subway Tile,14,Dhs,Classic subway tile for kitchen and bathroom walls.,_,_,_,_,200mm x 100mm,0.8,KG,_,50,tiles,_,,_,,4%,16,Dhs,120,Suburban
+Patterned Ceramic Tile,25,Dhs,Bold patterned tile for decorative accents.,_,_,_,_,300mm x 300mm,2.5,KG,_,11,tiles,_,,_,,6%,28,Dhs,250,Urban
+Herringbone Tile,30,Dhs,Herringbone tile for stylish and modern layouts.,_,_,_,_,100mm x 400mm,1.8,KG,_,25,tiles,_,,_,,5%,35,Dhs,320,Urban
+Antique Terracotta Tile,30,Dhs,Weathered terracotta tile for vintage aesthetics.,_,_,_,_,300mm x 300mm,3,KG,_,11,tiles,_,,_,,7%,32,Dhs,250,Urban
+Recycled Glass Tile,20,Dhs,Eco-friendly recycled glass tile.,_,_,_,_,200mm x 200mm,1.2,KG,_,25,tiles,_,,_,,5%,22,Dhs,180,Urban
+Textured Porcelain Tile,28,Dhs,Textured porcelain tile for anti-slip surfaces.,_,_,_,_,400mm x 400mm,4,KG,_,6.25,tiles,_,,_,,6%,30,Dhs,280,Suburban
+Italian Marble Tile,50,Dhs,Premium Italian marble for luxury spaces.,_,_,_,_,600mm x 600mm,8,KG,_,2.78,tiles,_,,_,,10%,55,Dhs,500,Urban
+Victorian Encaustic Tile,40,Dhs,Victorian-era encaustic tile with intricate patterns.,_,_,_,_,200mm x 200mm,1.4,KG,_,25,tiles,_,,_,,8%,45,Dhs,300,Urban
+Fiberglass Insulation,12,Dhs,Standard fiberglass loft insulation.,_,Fiberglass Batt,100mm,_,_,_,_,_,1 sq.m,_,_,,_,,5%,10,Dhs,120,Urban
+Mineral Wool Insulation,15,Dhs,Fire-resistant mineral wool for lofts.,_,Mineral Wool Batt,150mm,_,_,_,_,_,1 sq.m,_,_,,_,,6%,12,Dhs,150,Urban
+Spray Foam Insulation,25,Dhs,High-performance spray foam insulation.,_,Spray Foam,50mm,_,_,_,_,_,1 sq.m,_,_,,_,,4%,20,Dhs,180,Urban
+Polystyrene Insulation,10,Dhs,Lightweight polystyrene sheets for lofts.,_,Expanded Polystyrene (EPS),50mm,_,_,_,_,_,1 sq.m,_,_,,_,,3%,8,Dhs,100,Suburban
+PIR Insulation Board,30,Dhs,Rigid PIR insulation for energy efficiency.,_,Polyisocyanurate (PIR) Board,100mm,_,_,_,_,_,1 sq.m,_,_,,_,,2%,22,Dhs,200,Urban
+Loose-fill Cellulose,8,Dhs,Eco-friendly cellulose loose-fill insulation.,_,Loose-fill Cellulose,N/A,_,_,_,_,_,1 sq.m,_,_,,_,,7%,6,Dhs,90,Suburban
+Sheep Wool Insulation,22,Dhs,Natural sheep wool insulation for lofts.,_,Sheep Wool Batt,150mm,_,_,_,_,_,1 sq.m,_,_,,_,,8%,15,Dhs,160,Rural
+Rigid Foam Board,18,Dhs,Durable foam board insulation for lofts.,_,Extruded Polystyrene (XPS),75mm,_,_,_,_,_,1 sq.m,_,_,,_,,5%,16,Dhs,140,Urban
+Reflective Foil Insulation,12,Dhs,Thin reflective foil for heat retention.,_,Foil-faced Bubble Wrap,20mm,_,_,_,_,_,1 sq.m,_,_,,_,,2%,9,Dhs,110,Suburban
+Aerogel Insulation,40,Dhs,High-tech aerogel insulation for superior efficiency.,_,Aerogel Blanket,10mm,_,_,_,_,_,1 sq.m,_,_,,_,,1%,30,Dhs,250,Urban
+Polyurethane Spray Foam,28,Dhs,Closed-cell polyurethane spray foam for lofts.,_,Polyurethane Spray,75mm,_,_,_,_,_,1 sq.m,_,_,,_,,3%,25,Dhs,190,Urban
+Vermiculite Loose-fill,7,Dhs,Vermiculite loose-fill insulation for lofts.,_,Loose-fill Vermiculite,N/A,_,_,_,_,_,1 sq.m,_,_,,_,,6%,5,Dhs,85,Suburban
+Phenolic Insulation Board,26,Dhs,Phenolic foam board for high insulation.,_,Phenolic Board,100mm,_,_,_,_,_,1 sq.m,_,_,,_,,4%,22,Dhs,220,Urban
+Cork Insulation Sheets,20,Dhs,Natural cork insulation for loft floors.,_,Cork Sheets,50mm,_,_,_,_,_,1 sq.m,_,_,,_,,6%,18,Dhs,140,Rural
+Hemp Insulation,17,Dhs,Sustainable hemp loft insulation.,_,Hemp Batt,100mm,_,_,_,_,_,1 sq.m,_,_,,_,,5%,14,Dhs,130,Rural
+Multi-foil Insulation,16,Dhs,Multi-foil for compact insulation in lofts.,_,Multi-layer Foil,25mm,_,_,_,_,_,1 sq.m,_,_,,_,,2%,13,Dhs,120,Urban
+Blown Cellulose,9,Dhs,Blown cellulose for easy application in lofts.,_,Loose-fill Cellulose,N/A,_,_,_,_,_,1 sq.m,_,_,,_,,7%,7,Dhs,95,Suburban
+Vacuum Insulation Panels,45,Dhs,Ultra-thin vacuum insulation for loft spaces.,_,Vacuum Insulation Panel (VIP),25mm,_,_,_,_,_,1 sq.m,_,_,,_,,2%,35,Dhs,260,Urban
+Expanded Polystyrene (EPS),11,Dhs,Cost-effective expanded polystyrene sheets.,_,EPS Sheets,100mm,_,_,_,_,_,1 sq.m,_,_,,_,,4%,10,Dhs,110,Suburban
+Rockwool Insulation,15,Dhs,High-density Rockwool for loft floors.,_,Rockwool Batt,150mm,_,_,_,_,_,1 sq.m,_,_,,_,,6%,12,Dhs,145,Urban
+Gypsum Insulation Panels,14,Dhs,Gypsum panels with insulation properties.,_,Gypsum Panel,12mm,_,_,_,_,_,1 sq.m,_,_,,_,,5%,11,Dhs,120,Urban
+Thinsulate Loft Insulation,28,Dhs,Compact Thinsulate insulation for small lofts.,_,Thinsulate Blanket,50mm,_,_,_,_,_,1 sq.m,_,_,,_,,2%,24,Dhs,180,Urban
+Extruded Polystyrene (XPS),19,Dhs,Rigid XPS insulation for loft floors and walls.,_,XPS Board,75mm,_,_,_,_,_,1 sq.m,_,_,,_,,3%,16,Dhs,150,Urban
+Glass Wool Insulation,13,Dhs,Lightweight glass wool insulation.,_,Glass Wool Batt,100mm,_,_,_,_,_,1 sq.m,_,_,,_,,5%,10,Dhs,125,Urban
+Celotex Insulation Board,27,Dhs,Premium Celotex PIR board for lofts.,_,Celotex PIR Board,100mm,_,_,_,_,_,1 sq.m,_,_,,_,,3%,22,Dhs,230,Urban
+Spray Cellulose Insulation,10,Dhs,Spray-applied cellulose insulation for lofts.,_,Spray Cellulose,N/A,_,_,_,_,_,1 sq.m,_,_,,_,,6%,8,Dhs,105,Suburban
+Wood Fiber Insulation,18,Dhs,Natural wood fiber insulation for loft floors.,_,Wood Fiber Board,50mm,_,_,_,_,_,1 sq.m,_,_,,_,,5%,15,Dhs,140,Rural
+EPS Bead Insulation,13,Dhs,Loose-fill EPS beads for loft insulation.,_,EPS Beads,N/A,_,_,_,_,_,1 sq.m,_,_,,_,,7%,10,Dhs,115,Suburban
+Spray Polyurethane Foam,29,Dhs,High R-value spray polyurethane for lofts.,_,Spray Polyurethane,100mm,_,_,_,_,_,1 sq.m,_,_,,_,,2%,25,Dhs,190,Urban
+Insulated Plasterboard,22,Dhs,Plasterboard with insulation for loft ceilings.,_,Insulated Plasterboard,12mm,_,_,_,_,_,1 sq.m,_,_,,_,,3%,20,Dhs,150,Urban
+Natural Cotton Insulation,20,Dhs,Recycled cotton insulation for lofts.,_,Cotton Batt,100mm,_,_,_,_,_,1 sq.m,_,_,,_,,5%,16,Dhs,170,Rural
+Glassfiber Spray Insulation,14,Dhs,Spray glass fiber insulation for loft spaces.,_,Spray Glass Fiber,50mm,_,_,_,_,_,1 sq.m,_,_,,_,,4%,12,Dhs,125,Urban
+Polyester Batt Insulation,17,Dhs,Polyester batts for quiet and warm lofts.,_,Polyester Batt,100mm,_,_,_,_,_,1 sq.m,_,_,,_,,6%,14,Dhs,130,Suburban
+Silica Aerogel Blanket,38,Dhs,Advanced silica aerogel for maximum insulation.,_,Aerogel Blanket,20mm,_,_,_,_,_,1 sq.m,_,_,,_,,2%,32,Dhs,250,Urban
+Blow-in Rock Wool,12,Dhs,Blown-in Rock Wool insulation for lofts.,_,Blown Rock Wool,N/A,_,_,_,_,_,1 sq.m,_,_,,_,,5%,10,Dhs,120,Urban
+EPS Thermal Board,10,Dhs,Cost-effective thermal EPS boards for lofts.,_,Expanded Polystyrene (EPS),75mm,_,_,_,_,_,1 sq.m,_,_,,_,,4%,9,Dhs,110,Suburban
+PIR Foam Core Board,29,Dhs,High-performance PIR foam core board.,_,PIR Foam Board,100mm,_,_,_,_,_,1 sq.m,_,_,,_,,3%,25,Dhs,210,Urban
+Perlite Loose-fill,8,Dhs,Perlite loose-fill insulation for lofts.,_,Loose-fill Perlite,N/A,_,_,_,_,_,1 sq.m,_,_,,_,,6%,7,Dhs,100,Suburban
+Expanded Cork Board,21,Dhs,Eco-friendly expanded cork board insulation.,_,Cork Board,50mm,_,_,_,_,_,1 sq.m,_,_,,_,,6%,18,Dhs,150,Rural
+Metalized Foil Sheets,13,Dhs,Reflective metalized foil sheets for lofts.,_,Metalized Foil,20mm,_,_,_,_,_,1 sq.m,_,_,,_,,2%,11,Dhs,120,Urban
+Vermiculite Insulation,9,Dhs,Vermiculite loose-fill insulation for fire safety.,_,Loose-fill Vermiculite,N/A,_,_,_,_,_,1 sq.m,_,_,,_,,5%,7,Dhs,105,Suburban
+Isocyanurate Foam Board,32,Dhs,High-density isocyanurate foam for lofts.,_,Isocyanurate Foam Board,100mm,_,_,_,_,_,1 sq.m,_,_,,_,,2%,28,Dhs,240,Urban
+Straw Bale Insulation,6,Dhs,Straw bale for eco-friendly insulation in rural lofts.,_,Straw Bale,300mm,_,_,_,_,_,1 sq.m,_,_,,_,,10%,4,Dhs,80,Rural
+Thermal Fiber Glass Board,15,Dhs,Insulated fiberglass board for loft spaces.,_,Fiber Glass Board,75mm,_,_,_,_,_,1 sq.m,_,_,,_,,5%,12,Dhs,145,Urban
+Cork Granules Insulation,10,Dhs,Loose-fill cork granules for loft insulation.,_,Loose-fill Cork,N/A,_,_,_,_,_,1 sq.m,_,_,,_,,7%,9,Dhs,110,Rural
+Stone Wool Board,17,Dhs,Stone wool board for fire-resistant insulation.,_,Stone Wool Board,100mm,_,_,_,_,_,1 sq.m,_,_,,_,,5%,15,Dhs,135,Urban
+Blown Fiberglass,12,Dhs,Blown fiberglass for easy loft insulation.,_,Loose-fill Fiberglass,N/A,_,_,_,_,_,1 sq.m,_,_,,_,,6%,10,Dhs,120,Suburban
+Interior Emulsion Paint,12,Dhs,Standard emulsion paint for interior walls.,Emulsion,_,_,Matte,_,_,_,10,_,_,_,,_,,5%,8,Dhs,60,Urban
+Exterior Acrylic Paint,18,Dhs,Weather-resistant acrylic paint for exterior walls.,Acrylic,_,_,Semi-gloss,_,_,_,8,_,_,_,,_,,6%,10,Dhs,80,Urban
+Premium Silk Emulsion,22,Dhs,High-quality silk finish for smooth interior walls.,Emulsion,_,_,Silk,_,_,_,12,_,_,_,,_,,4%,9,Dhs,75,Suburban
+Anti-Mold Bathroom Paint,25,Dhs,Mold-resistant paint for bathrooms and kitchens.,Latex,_,_,Satin,_,_,_,8,_,_,_,,_,,5%,12,Dhs,85,Urban
+Washable Matte Paint,20,Dhs,"Durable, washable matte paint for high-traffic areas.",Emulsion,_,_,Matte,_,_,_,10,_,_,_,,_,,3%,9,Dhs,70,Urban
+Waterproof Exterior Paint,30,Dhs,Waterproof paint for exterior walls and facades.,Elastomeric,_,_,Gloss,_,_,_,7,_,_,_,,_,,7%,15,Dhs,90,Urban
+Eco-Friendly Paint,28,Dhs,"Low-VOC, eco-friendly paint for indoor use.",Natural,_,_,Matte,_,_,_,9,_,_,_,,_,,4%,11,Dhs,85,Suburban
+High-Gloss Enamel Paint,35,Dhs,Durable high-gloss enamel for doors and trims.,Enamel,_,_,High-Gloss,_,_,_,8,_,_,_,,_,,2%,12,Dhs,100,Urban
+Chalkboard Paint,32,Dhs,Specialty chalkboard paint for writable surfaces.,Acrylic,_,_,Matte,_,_,_,9,_,_,_,,_,,5%,15,Dhs,95,Urban
+Masonry Paint,27,Dhs,Breathable masonry paint for exterior brick and stone.,Masonry,_,_,Semi-gloss,_,_,_,7,_,_,_,,_,,6%,14,Dhs,85,Suburban
+Heat-Resistant Paint,40,Dhs,High-temperature paint for fireplaces and radiators.,Silicone Resin,_,_,Gloss,_,_,_,8,_,_,_,,_,,3%,18,Dhs,110,Urban
+Ceiling White Paint,15,Dhs,Non-reflective matte white paint for ceilings.,Emulsion,_,_,Ultra-Matte,_,_,_,11,_,_,_,,_,,4%,8,Dhs,65,Suburban
+Floor Paint,25,Dhs,Tough floor paint for interior and exterior floors.,Acrylic,_,_,Satin,_,_,_,8,_,_,_,,_,,5%,12,Dhs,85,Urban
+Wood Stain,22,Dhs,Transparent wood stain for indoor and outdoor wood surfaces.,Oil-based Stain,_,_,Semi-gloss,_,_,_,10,_,_,_,,_,,6%,14,Dhs,90,Rural
+Primer-Sealer Paint,18,Dhs,Multi-surface primer and sealer for new construction.,Primer,_,_,Flat,_,_,_,12,_,_,_,,_,,4%,9,Dhs,75,Urban
+Oil-Based Gloss Paint,35,Dhs,Durable oil-based gloss paint for wood and metal.,Oil-based,_,_,High-Gloss,_,_,_,7,_,_,_,,_,,5%,16,Dhs,95,Urban
+Satinwood Paint,28,Dhs,Smooth satinwood paint for doors and trim.,Oil-based,_,_,Satin,_,_,_,9,_,_,_,,_,,3%,13,Dhs,90,Urban
+Limewash,14,Dhs,Traditional limewash for brick and masonry surfaces.,Natural,_,_,Matte,_,_,_,11,_,_,_,,_,,6%,10,Dhs,70,Rural
+Textured Wall Paint,22,Dhs,Textured paint for decorative interior walls.,Acrylic,_,_,Textured,_,_,_,8,_,_,_,,_,,5%,12,Dhs,85,Urban
+Anti-Corrosive Metal Paint,38,Dhs,Rust-preventing paint for metal surfaces.,Epoxy,_,_,Gloss,_,_,_,7,_,_,_,,_,,3%,17,Dhs,110,Urban
+Low-Sheen Interior Paint,18,Dhs,Low-sheen paint for general interior walls.,Emulsion,_,_,Low-Sheen,_,_,_,10,_,_,_,,_,,4%,9,Dhs,65,Urban
+Fast-Dry Spray Paint,20,Dhs,Quick-drying spray paint for a variety of surfaces.,Aerosol,_,_,Satin,_,_,_,6,_,_,_,,_,,7%,15,Dhs,80,Suburban
+Deck Stain,26,Dhs,Exterior wood deck stain for UV protection.,Oil-based Stain,_,_,Semi-gloss,_,_,_,10,_,_,_,,_,,5%,14,Dhs,90,Rural
+Epoxy Floor Coating,50,Dhs,Heavy-duty epoxy floor coating for garages and workshops.,Epoxy,_,_,High-Gloss,_,_,_,5,_,_,_,,_,,2%,20,Dhs,120,Urban
+Odorless Interior Paint,28,Dhs,Low-odor paint ideal for interior spaces.,Latex,_,_,Matte,_,_,_,11,_,_,_,,_,,4%,11,Dhs,90,Urban
+Stain-Blocking Primer,24,Dhs,Primer with stain-blocking properties for tough stains.,Primer,_,_,Flat,_,_,_,12,_,_,_,,_,,3%,13,Dhs,80,Urban
+Concrete Paint,32,Dhs,Paint designed specifically for concrete floors and walls.,Acrylic,_,_,Semi-gloss,_,_,_,9,_,_,_,,_,,6%,14,Dhs,100,Urban
+Moisture-Resistant Paint,26,Dhs,Moisture-resistant paint for basements and damp areas.,Latex,_,_,Satin,_,_,_,10,_,_,_,,_,,5%,12,Dhs,85,Suburban
+Reflective Roof Coating,48,Dhs,Reflective paint for energy-efficient roof coatings.,Elastomeric,_,_,Gloss,_,_,_,8,_,_,_,,_,,4%,19,Dhs,130,Urban
+Fire-Resistant Paint,55,Dhs,Intumescent fire-resistant paint for structural steel.,Intumescent Coating,_,_,Semi-gloss,_,_,_,6,_,_,_,,_,,2%,22,Dhs,150,Urban
+UV-Resistant Paint,35,Dhs,Paint with added UV protection for outdoor surfaces.,Acrylic,_,_,Satin,_,_,_,9,_,_,_,,_,,3%,15,Dhs,100,Suburban
+Peelable Paint,28,Dhs,Peelable paint for temporary coatings on various surfaces.,Acrylic,_,_,Matte,_,_,_,7,_,_,_,,_,,6%,12,Dhs,85,Urban
+Whitewash Paint,12,Dhs,Traditional whitewash for rural and agricultural buildings.,Natural,_,_,Matte,_,_,_,10,_,_,_,,_,,5%,8,Dhs,70,Rural
+Anti-Graffiti Coating,45,Dhs,Protective anti-graffiti coating for walls and surfaces.,Polyurethane,_,_,Gloss,_,_,_,9,_,_,_,,_,,4%,20,Dhs,140,Urban
+Rubberized Waterproofing,32,Dhs,Flexible rubberized coating for waterproofing walls and roofs.,Elastomeric,_,_,Gloss,_,_,_,8,_,_,_,,_,,6%,18,Dhs,125,Urban
+Satin Interior Wall Paint,22,Dhs,Satin finish for smooth interior walls.,Latex,_,_,Satin,_,_,_,10,_,_,_,,_,,3%,12,Dhs,80,Urban
+Anti-Condensation Paint,28,Dhs,Paint designed to prevent condensation buildup.,Latex,_,_,Satin,_,_,_,9,_,_,_,,_,,4%,14,Dhs,90,Urban
+Reflective Heat Paint,50,Dhs,Heat-reflective paint for energy-saving indoor surfaces.,Reflective,_,_,Satin,_,_,_,7,_,_,_,,_,,3%,20,Dhs,140,Urban
+Nano-Coating Paint,40,Dhs,Advanced nano-coating for water and dirt resistance.,Nanotechnology,_,_,Gloss,_,_,_,9,_,_,_,,_,,5%,18,Dhs,125,Urban
+Vinyl Matt Emulsion,18,Dhs,Durable vinyl matte paint for interior walls.,Emulsion,_,_,Matte,_,_,_,10,_,_,_,,_,,4%,10,Dhs,75,Urban
+Stucco Paint,22,Dhs,Textured stucco paint for decorative finishes.,Acrylic,_,_,Textured,_,_,_,8,_,_,_,,_,,5%,12,Dhs,85,Urban
+Marine-Grade Paint,45,Dhs,Water-resistant paint for boats and marine structures.,Epoxy,_,_,High-Gloss,_,_,_,6,_,_,_,,_,,3%,20,Dhs,150,Urban
+Metallic Finish Paint,35,Dhs,Metallic finish paint for decorative accents.,Acrylic,_,_,Semi-gloss,_,_,_,8,_,_,_,,_,,4%,16,Dhs,110,Urban
+Rust-Proof Metal Paint,40,Dhs,Anti-rust paint for outdoor metal surfaces.,Epoxy,_,_,Gloss,_,_,_,7,_,_,_,,_,,5%,18,Dhs,120,Urban
+Ultra-Low VOC Paint,30,Dhs,Ultra-low VOC paint for eco-conscious interiors.,Latex,_,_,Matte,_,_,_,11,_,_,_,,_,,4%,11,Dhs,90,Suburban
+Specialty Glitter Paint,35,Dhs,Decorative glitter paint for interior walls and craft projects.,Acrylic,_,_,Glitter,_,_,_,6,_,_,_,,_,,7%,14,Dhs,110,Urban
+Tile Paint,25,Dhs,Durable tile paint for bathrooms and kitchens.,Epoxy,_,_,Satin,_,_,_,9,_,_,_,,_,,3%,12,Dhs,90,Suburban
+Waterproof Masonry Paint,30,Dhs,Waterproof paint for exterior masonry surfaces.,Acrylic,_,_,Gloss,_,_,_,8,_,_,_,,_,,6%,15,Dhs,100,Urban
